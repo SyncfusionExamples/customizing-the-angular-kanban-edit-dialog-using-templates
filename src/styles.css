@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '../node_modules/@syncfusion/ej2-base/styles/fluent.css';
+@import '../node_modules/@syncfusion/ej2-buttons/styles/fluent.css';
+@import '../node_modules/@syncfusion/ej2-dropdowns/styles/fluent.css';
+@import '../node_modules/@syncfusion/ej2-inputs/styles/fluent.css';
+@import '../node_modules/@syncfusion/ej2-layouts/styles/fluent.css';
+@import '../node_modules/@syncfusion/ej2-navigations/styles/fluent.css';
+@import '../node_modules/@syncfusion/ej2-popups/styles/fluent.css';
+@import '../node_modules/@syncfusion/ej2-kanban/styles/fluent.css';
+ .e-float-input.e-control-wrapper {
+    margin-top: 0px;
+}
